@@ -19,4 +19,5 @@ actually used in production, not just demoed.
 
 - LinkedIn: https://www.linkedin.com/in/nassriayman/
 - X: https://x.com/Ayman_Nassri
+- Malt for freelance/hiring : https://www.malt.fr/profile/aymannassri
 - Email: nassriayman0@gmail.com
